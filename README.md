@@ -5,7 +5,7 @@ INSTRUCTIONS!!:
 
 1. Install Multiling O keyboard using the link provided or searching it in the Play Store: https://play.google.com/store/apps/details?id=kl.ime.oh
 
-2. (Optional!) Install the toki pona keyboard plugin named "android-klyeplugintp1-10.apk", for latin-script autocorrect. I'm not actually sure if this works with my layout so you can most likely skip this step. I found it at the link below but I uploaded it here as well. 
+2. (Optional!) Install the toki pona keyboard plugin named "android-klyeplugintp1-10.apk", for latin-script autocorrect. I found it at the link below but I uploaded it here as well. 
 Link: https://toki-pona-keyboard-plugin.soft112.com/
 
 3. Enable and select the keyboard through the app
