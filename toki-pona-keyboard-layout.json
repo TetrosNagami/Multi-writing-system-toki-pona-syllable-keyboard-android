@@ -3,8 +3,8 @@
     "onScreen": {
         "main": [
             "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][4D:#—|–_][4D:aiueo][4D:[MC:ka][MC:ki][MC:ku][MC:ke][MC:ko]][4D:[MC:sa][MC:si][MC:su][MC:se][MC:so]][4D:[DEL][WDEL] [FDEL]]",
-            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:[MC:ta][MC:ti][MC:tu][MC:te][MC:to]][4D:[MC:na][MC:ni][MC:nu][MC:ne][MC:no]][4D:[MC:pa][MC:pi][MC:pu][MC:pe][MC:po]][4D:n[MC:wu][MC:wo][MC:ji][MC:ti][MC:ju]]",
-            "[4D:[RIGHT]  [END]][4D:-<+>=\"'*/][4D:[MC:ma][MC:mi][MC:mu][MC:me][MC:mo]][4D:[MC:ja][MC:ji][MC:ju][MC:je][MC:jo]][4D:[MC:la][MC:li][MC:lu][MC:le][MC:lo]][4D:[MC:wa][MC:wi] [MC:we] ～]",
+            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:[MC:ta] [MC:tu][MC:te][MC:to]][4D:[MC:na][MC:ni][MC:nu][MC:ne][MC:no]][4D:[MC:pa][MC:pi][MC:pu][MC:pe][MC:po]][4D:n[MC:wu][MC:wo][MC:ji][MC:ti]]",
+            "[4D:[RIGHT]  [END]][4D:-<+>=\"'*/][4D:[MC:ma][MC:mi][MC:mu][MC:me][MC:mo]][4D:[MC:ja] [MC:ju][MC:je][MC:jo]][4D:[MC:la][MC:li][MC:lu][MC:le][MC:lo]][4D:[MC:wa][MC:wi] [MC:we] ～]",
             "[4D:[DOWN][EMOJI][SYM][123][ALTGR]][TOOL][SPACE][][][ENTER]"
         ],
         "sym": [
@@ -47,4 +47,4 @@
             "T9": false
         }
     }
-}
+            }
