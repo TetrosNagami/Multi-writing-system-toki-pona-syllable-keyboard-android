@@ -32,4 +32,8 @@ INSTRUCTIONS!!:
 
 (OPTIONAL!) Dark theme: copy the text of the theme file and then open the app. go to settings>misc>import>theme paste ok.
 
+
+
+you will need a font to see the ucsur sitelen pona writing suggestions if you dont have it already. alternatively there are unicode pseudo sitelen pona for you to use that anyone can see, no special font required, or emoji writing. 
+
 Discord: tetros0, also on the tokipona discord :)
